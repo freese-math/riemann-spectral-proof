@@ -19,13 +19,13 @@ Zentrale Komponenten sind:
 
 ## Kernformel (Beta-Ansatz)
 
-\[
+\$$
 \sum_{k=1}^{n} \beta(k) \approx \log(p_n) + \varepsilon \quad \text{mit} \quad \varepsilon \approx 15{,}88
-\]
+\$$
 
-\[
+\$$
 \beta(n) = \frac{A}{n^p} + \sum_{k=1}^{K} A_k \cdot \sin(2\pi f_k n)
-\]
+\$$
 
 Diese Formel beschreibt die harmonische Struktur der rekonstruierten Beta-Werte und lässt sich spektral analysieren.
 
