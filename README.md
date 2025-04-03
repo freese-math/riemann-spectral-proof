@@ -10,8 +10,8 @@ Dieses Repository dokumentiert den modular aufgebauten Beweisrahmen für die RH,
 
 Zentrale Komponenten sind:
 
-- **Spektraloperator \( D_\mu \)** auf diskreter Beta-Skala
-- **Rekonstruktive Beta-Funktion** \( \beta(n) \)
+- **Spektraloperator \$$( D_\mu \)$$** auf diskreter Beta-Skala
+- **Rekonstruktive Beta-Funktion** \$$( \beta(n) \$$)
 - **Euler–Freese-Formel** als harmonisches Strukturmodell
 - **Vergleich mit Liouville- und Tschebyschow-Funktion**
 
@@ -20,7 +20,7 @@ Zentrale Komponenten sind:
 ## Kernformel (Beta-Ansatz)
 
 \$$
-\sum_{k=1}^{n} \beta(k) = \log(p_n) + \varepsilon(n), \quad \text{mit nicht-konstantem Fehlerterm} \ \varepsilon(n)
+\\sum_{k=1}^{n} \beta(k) \not\approx \log(p_n) + \varepsilon
 \$$
 
 \$$
