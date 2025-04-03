@@ -1,5 +1,3 @@
-# riemann-spectral-proof
-Operator-basierter Spektralansatz zur RH mit Zeta-Nullstellen, Primzahlen und rekonstruktiver Beta-Skala.
 # Riemann-Spectral-Proof
 
 **Operator-basierter Spektralansatz zur Riemannschen Hypothese (RH)** auf Basis von Zeta-Nullstellen, Primzahllogarithmen und der rekonstruktiven Beta-Skala.
