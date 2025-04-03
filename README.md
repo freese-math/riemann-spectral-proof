@@ -80,10 +80,6 @@ Dieses Projekt untersucht die Riemannsche Hypothese aus spektraler Sicht – mit
 - Vergleich mit Odlyzko-Nullstellen
 - Integration der Zeta Nova Freesiana
 
-## Lizenz
-
-Open Review | CC BY-SA 4.0
-
 ---
 
 ## Zielsetzung
@@ -92,9 +88,32 @@ Dieses Projekt verfolgt das Ziel einer **ZFC-konformen Ableitung der RH** durch 
 
 ---
 
-## Lizenz
+## Lizenz und Nutzung
 
-[MIT License](LICENSE)
+Die zugrunde liegenden Formeln, Konzepte und der spektrale Operatoransatz unterliegen dem Urheberrecht und sind seit dem 28. Februar 2025 notariell bei:
+
+**Notariat Lindwehr**  
+Münsteraner Straße 2, 49809 Lingen (Ems)  
+[www.lindwehr.com](https://www.lindwehr.com/kontakt/)  
+Tel: 0591 – 31 96 29 00  
+E-Mail: info@lindwehr.com
+
+sowie anwaltlich vertreten durch:
+
+**Kanzlei Schulte und Partner – RA Michael Lito Schulte**  
+Kaiser-Wilhelm-Ring 43a, 40545 Düsseldorf  
+Wilhelmshofallee 72, 47800 Krefeld  
+Tel: +49 (0) 211 55 86 4 – 00  
+Web: [lawplus.de](https://lawplus.de/)
+
+### Nutzungsbedingungen:
+- Dieses Repository folgt dem Prinzip der **Open Science**: Die Forschung darf **frei eingesehen, getestet und weiterentwickelt** werden.
+- **Kommerzielle Nutzung**, **Veröffentlichungen** oder **mediale Verarbeitung der Inhalte** bedürfen jedoch der **ausdrücklichen schriftlichen Zustimmung** des Autors.
+- Grundlage ist ein ethischer Kodex, der sich an humanistischen Prinzipien orientiert.
+
+Bitte bei Anfragen zur Nutzung oder Lizenzierung Kontakt aufnehmen.
+
+
 
 ---
 
