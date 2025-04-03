@@ -94,9 +94,9 @@ Die zugrunde liegenden Formeln, Konzepte und der spektrale Operatoransatz unterl
 
 **Notariat Lindwehr**  
 Münsteraner Straße 2, 49809 Lingen (Ems)  
-[www.lindwehr.com](https://www.lindwehr.com/kontakt/)  
-Tel: 0591 – 31 96 29 00  
+Tel: +49 (0) 591 31 96 29 - 00  
 E-Mail: info@lindwehr.com
+Web: [www.lindwehr.com](https://www.lindwehr.com/kontakt/)
 
 sowie anwaltlich vertreten durch:
 
@@ -104,6 +104,7 @@ sowie anwaltlich vertreten durch:
 Kaiser-Wilhelm-Ring 43a, 40545 Düsseldorf  
 Wilhelmshofallee 72, 47800 Krefeld  
 Tel: +49 (0) 211 55 86 4 – 00  
+E-Mail: l.schulte@lawplus.de
 Web: [lawplus.de](https://lawplus.de/)
 
 ### Nutzungsbedingungen:
