@@ -49,6 +49,26 @@ Beispielhafte Darstellung der spektralen Driftstruktur der Beta-Skala:
 
 ![BetaSkala](viz/beta_plot.png)
 
+# Riemann Spectral Proof
+
+Dieses Projekt untersucht die Riemannsche Hypothese aus spektraler Sicht – mit Operatoren, Primzahlskalen und der rekonstruktiven Beta-Struktur.
+
+## Einstieg
+
+- [Kernstruktur & Theorie (index.ipynb)](https://nbviewer.org/github/freese-math/riemann-spectral-proof/blob/main/index.ipynb)
+
+## Inhalte
+
+- Harmonische Rekonstruktion der Beta-Funktion
+- Operatorstruktur ($\\mathcal{T}_\\beta$)
+- Spektrale Filterung
+- Vergleich mit Odlyzko-Nullstellen
+- Integration der Zeta Nova Freesiana
+
+## Lizenz
+
+Open Review | CC BY-SA 4.0
+
 ---
 
 ## Zielsetzung
