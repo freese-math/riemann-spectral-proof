@@ -30,13 +30,13 @@ $$
 \sum_{k=1}^{n} \beta(k) \approx \log(p_n) + \varepsilon \quad \text{mit} \quad \varepsilon \approx 15{,}88
 $$
 
-erweist sich bei genauerer numerischer Analyse als **nicht korrekt**. Stattdessen zeigt sich, der Fehlerterm als
+erweist sich bei genauerer numerischer Analyse als **nicht korrekt**. Stattdessen zeigt sich, der Fehlerterm
 
 $$
 \varepsilon(n) := \sum_{k=1}^{n} \beta(k) - \log(p_n)
 $$
 
-**nicht konstant **, sondern ist er ein **strukturierter Ausdruck mit spektraler Signatur**. Er lässt sich durch harmonische Komponenten und Operatoren wie T₍ᵦ₎ analysieren und ist somit **kein Zufall**, sondern ein Schlüssel zur tieferen Struktur im Kontext der Riemannschen Hypothese.
+als **nicht konstant**, sondern ist er ein **strukturierter Ausdruck mit spektraler Signatur**. Er lässt sich durch harmonische Komponenten und Operatoren wie T₍ᵦ₎ analysieren und ist somit **kein Zufall**, sondern ein Schlüssel zur tieferen Struktur im Kontext der Riemannschen Hypothese.
 
 \$$
 \beta(n) = \frac{A}{n^p} + \sum_{k=1}^{K} A_k \cdot \sin(2\pi f_k n)
