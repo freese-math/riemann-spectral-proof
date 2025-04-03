@@ -19,9 +19,24 @@ Zentrale Komponenten sind:
 
 ## Kernformel (Beta-Ansatz)
 
+\$$\sum_{k=1}^{n} \beta(k) = \log(p_n) + \varepsilon(n), \quad \text{mit} \quad \varepsilon(n) \not\equiv \text{konstant}
 \$$
-\\sum_{k=1}^{n} \beta(k) \not\approx \log(p_n) + \varepsilon
-\$$
+
+> **Hinweis zur Präzision der Näherung**
+
+Die ursprüngliche Näherung
+
+$$
+\sum_{k=1}^{n} \beta(k) \approx \log(p_n) + \varepsilon \quad \text{mit} \quad \varepsilon \approx 15{,}88
+$$
+
+erweist sich bei genauerer numerischer Analyse als **nicht korrekt**. Stattdessen zeigt sich, dass der Fehlerterm 
+
+$$
+\varepsilon(n) := \sum_{k=1}^{n} \beta(k) - \log(p_n)
+$$
+
+**nicht konstant**, sondern ein **strukturierte
 
 \$$
 \beta(n) = \frac{A}{n^p} + \sum_{k=1}^{K} A_k \cdot \sin(2\pi f_k n)
