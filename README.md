@@ -20,7 +20,7 @@ Zentrale Komponenten sind:
 ## Kernformel (Beta-Ansatz)
 
 \$$
-\sum_{k=1}^{n} \beta(k) \approx \log(p_n) + \varepsilon \quad \text{mit} \quad \varepsilon \approx 15{,}88
+\sum_{k=1}^{n} \beta(k) = \log(p_n) + \varepsilon(n), \quad \text{mit nicht-konstantem Fehlerterm} \ \varepsilon(n)
 \$$
 
 \$$
