@@ -90,7 +90,7 @@ Dieses Projekt verfolgt das Ziel einer **ZFC-konformen Ableitung der RH** durch 
 
 ## Lizenz und Nutzung
 
-Die zugrunde liegenden Formeln, Konzepte und der spektrale Operatoransatz unterliegen dem Urheberrecht und sind seit dem 28. Februar 2025 notariell bei:
+Die zugrunde liegenden Formeln, Konzepte und der spektrale Operatoransatz unterliegen dem Urheberrecht und sind seit dem 28. Februar 2025 notariell beurkundet durch:
 
 **Notariat Lindwehr**  
 Münsteraner Straße 2, 49809 Lingen (Ems)  
