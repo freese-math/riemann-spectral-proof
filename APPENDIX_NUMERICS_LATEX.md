@@ -76,8 +76,6 @@ Die rekonstruktive Beta-Skala ist spektral harmonisch, funktional rekonstruierba
 ---
 
 ## 6. Direkt ausführbare Version des Jupyter Notebooks
-
-- **[Anzeigen in nbviewer]
 - ## Analyse: Spektrale Struktur der Beta-Skala
 
 Das folgende Jupyter Notebook enthält die vollständige FFT-Auswertung der rekonstruierten Beta-Skala inklusive Markierung der dominanten Modulationsfrequenz bei $f = 0.00015$.
