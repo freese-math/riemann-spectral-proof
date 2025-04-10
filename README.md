@@ -70,7 +70,7 @@ $$
 
 ## Freese-Ansatz zur Riemannschen Hypothese
 
-![Freese-Flowchart](./Pfad/zur/749E445E-2249-44E7-A1A2-C072D47D1C6C.png)
+![Freese-Flowchart](.Übersicht_Freese_Hypothese_Franework.png)
 
 Dieses Diagramm zeigt die logische Struktur des Freese-Ansatzes von den Zeta-Nullstellen bis zur Kohärenzstruktur der RH.
 ---
