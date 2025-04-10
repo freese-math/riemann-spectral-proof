@@ -150,6 +150,8 @@ Dies bestätigt die spektrale Ordnung und funktionale Determiniertheit der Beta-
 
 **[Appendix A – Numerische Validierung (Markdown mit Formeln)](APPENDIX_NUMERICS_LATEX.md)**
 
+![FFT der Beta-Skala](beta_fft_spektrum_markiert.png)
+
 ## Riemann Spectral Proof
 
 Dieses Projekt untersucht die Riemannsche Hypothese aus spektraler Sicht – mit Operatoren, Primzahlskalen und der rekonstruktiven Beta-Struktur.
