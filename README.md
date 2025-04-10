@@ -138,6 +138,8 @@ Die Grafik zeigt den Vergleich zwischen der numerisch aus spektralem Drift rekon
 
 Dies bestätigt die spektrale Ordnung und funktionale Determiniertheit der Beta-Skala – ein zentrales Element der rekonstruktiven Beweisarchitektur zur Riemannschen Hypothese.
 
+**[Appendix A – Numerische Validierung (Markdown mit Formeln)](APPENDIX_NUMERICS_LATEX.md)**
+
 ## Riemann Spectral Proof
 
 Dieses Projekt untersucht die Riemannsche Hypothese aus spektraler Sicht – mit Operatoren, Primzahlskalen und der rekonstruktiven Beta-Struktur.
