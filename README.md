@@ -8,6 +8,13 @@
 
 Dieses Repository dokumentiert den modular aufgebauten Beweisrahmen für die RH, bei dem zentrale Begriffe aus Zahlentheorie, Fourier-Analyse und spektralen Operatoren verschränkt werden.
 
+## Interaktive Analyse
+
+Starte das interaktive Notebook online:
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/freese-math/riemann-spectral-proof/HEAD?filepath=notebooks/fft_beta_demo.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/freese-math/riemann-spectral-proof/blob/main/notebooks/fft_beta_demo.ipynb)
+
 Zentrale Komponenten sind:
 
 - **Spektraloperator \$$( D_\mu \)$$** auf diskreter Beta-Skala
