@@ -35,7 +35,7 @@ import matplotlib.pyplot as plt
 from scipy.fft import fft, fftfreq
 
 # Beispielhafte Beta-Skala (synthetisch für Demonstration)
-n = np.arange(1, 100001)
+n = np.arange(1, 100002)
 beta = 1 / np.log(n) + 0.005 * np.cos(2 * np.pi * 0.00015 * n)
 
 # Entferne den Mittelwert
