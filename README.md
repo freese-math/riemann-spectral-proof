@@ -68,9 +68,9 @@ $$
 → RH folgt als notwendige Kohärenzbedingung eines harmonischen Spektralsystems.  
 → Die β-Skala ist zentraler Träger dieser Struktur.
 
-## Freese-Ansatz zur Riemannschen Hypothese
+## Überblick: Freese-Ansatz zur Riemannschen Hypothese
 
-![Freese-Flowchart](./Übersicht_Freese_Hypothese_Franework.png)
+![Freese-Flowchart](https://github.com/freese-math/riemann-spectral-proof/raw/main/U%CC%88bersicht_Freese_Hypothese_Franework.png)
 
 Dieses Diagramm zeigt die logische Struktur des Freese-Ansatzes von den Zeta-Nullstellen bis zur Kohärenzstruktur der RH.
 ---
