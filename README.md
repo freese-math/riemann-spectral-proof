@@ -27,16 +27,12 @@ Zentrale Komponenten sind:
 
 **3. Spektrale Struktur β(n)**  
 → Strukturgesetz:  
-\$$
-\beta(n) \approx A + \frac{a}{\log n} + b \cos(2\pi f n + \phi) + c n
-\$$ 
+`β(n) ≈ A + a / log(n) + b · cos(2π f n + φ) + c n`  
 → Reproduzierbar aus FFT-Daten und Zeta-Spektrum.
 
 **4. Liouville-Rekonstruktion**  
 → Verallgemeinerte ψ(x)-Funktion:  
-\[
-L(x) = \sum_k \beta_k \cdot \frac{x^{\rho_k} \zeta(2\rho_k)}{\rho_k \zeta'(\rho_k)}
-\]
+`L(x) = Σ β_k · [x^ρ_k · ζ(2ρ_k)] / [ρ_k · ζ′(ρ_k)]`
 
 **5. Vergleich mit klassischer ψ(x)**  
 → Übereinstimmung → RH numerisch und strukturell gesichert.
@@ -45,16 +41,12 @@ L(x) = \sum_k \beta_k \cdot \frac{x^{\rho_k} \zeta(2\rho_k)}{\rho_k \zeta'(\rho_
 
 **6. Euler–Freese-Identität**  
 → Form:  
-\[
-e^{i\pi\beta(n)} + 1 \to 0
-\]  
+`e^{iπβ(n)} + 1 → 0`  
 → Beschreibt spektrale Fixpunktkohärenz (z. B. auf dem Einheitskreis).
 
 **7. Freese-Fibonacci-Formel (zur Primzahldichte)**  
 → Form:  
-\[
-P(n) \sim A \cdot n^\beta \cdot \left(1 + \gamma \cos(\omega \log n)\right)
-\]
+`P(n) ~ A · n^β · (1 + γ cos(ω log(n)))`
 
 ---
 
@@ -64,7 +56,7 @@ P(n) \sim A \cdot n^\beta \cdot \left(1 + \gamma \cos(\omega \log n)\right)
 
 ---
 
-**Nächste Schritte**: Paper-Dokumentation, algorithmische Stabilisierung, axiomatische Einbettung.
+**Nächste Schritte:** Paper-Dokumentation, algorithmische Stabilisierung, axiomatische Einbettung.
 
 ## Kernformel (Beta-Ansatz)
 
