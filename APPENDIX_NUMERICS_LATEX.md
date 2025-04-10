@@ -34,27 +34,29 @@ import numpy as np
 import matplotlib.pyplot as plt
 from scipy.fft import fft, fftfreq
 
-# Beispielhafte Beta-Skala (synthetisch für Demonstration)
-n = np.arange(1, 100002)
+# Skala starten bei n=2 wegen log(1)
+n = np.arange(2, 100002)
 beta = 1 / np.log(n) + 0.005 * np.cos(2 * np.pi * 0.00015 * n)
 
-# Entferne den Mittelwert
+# Mittelwert entfernen
 beta -= np.mean(beta)
 
-# FFT
+# FFT berechnen
 N = len(beta)
 fft_vals = fft(beta)
 freqs = fftfreq(N, d=1)[:N // 2]
 amplitudes = 2.0 / N * np.abs(fft_vals[:N // 2])
 
-# Plot
+# Plot (verbessert)
 plt.figure(figsize=(10, 5))
-plt.plot(freqs, amplitudes, label='FFT von Beta(n)')
-plt.title("Frequenzspektrum der rekonstruierten Beta-Skala")
+plt.plot(freqs, amplitudes, label='FFT von Beta(n)', color='tab:blue')
+plt.axvline(0.00015, color='red', linestyle='--', label='f = 0.00015 (Modulation)')
+plt.yscale('log')
+plt.xlim(0.00005, 0.0003)
 plt.xlabel("Frequenz")
-plt.ylabel("Amplitude")
+plt.ylabel("Amplitude (log)")
+plt.title("Spektralanalyse der Beta-Skala (dominante Modulation sichtbar)")
 plt.grid(True)
-plt.xlim(0, 0.002)
 plt.legend()
 plt.tight_layout()
 plt.show()
