@@ -77,5 +77,5 @@ Die rekonstruktive Beta-Skala ist spektral harmonisch, funktional rekonstruierba
 
 ## 6. Direkt ausführbare Version des Jupyter Notebooks
 
-- **[Anzeigen in nbviewer](https://nbviewer.org/github/freese-math/riemann-spectral-proof/blob/main/kaggle_spektral_beta_gpu.ipynb)**  
+- **[Anzeigen in nbviewer](https://github.com/freese-math/riemann-spectral-proof/blob/678aea8d01c890965c4adf405f7fe998b7a622d4/fft_beta_demo_moduliert.ipynb)**  
 
