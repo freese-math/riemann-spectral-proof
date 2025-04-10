@@ -129,7 +129,8 @@ Diese Formel beschreibt die harmonische Struktur der rekonstruierten Beta-Werte 
 </p>
 
 <p align="center"><em>Beispielhafte Darstellung der spektralen Driftstruktur der Beta-Skala.</em></p>
-# Riemann Spectral Proof
+
+## Riemann Spectral Proof
 
 Dieses Projekt untersucht die Riemannsche Hypothese aus spektraler Sicht – mit Operatoren, Primzahlskalen und der rekonstruktiven Beta-Struktur.
 
