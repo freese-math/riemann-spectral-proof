@@ -16,6 +16,55 @@ Zentrale Komponenten sind:
 - **Vergleich mit Liouville- und Tschebyschow-Funktion**
 
 ---
+## Überblick: Freese-Ansatz zur Riemannschen Hypothese
+
+**1. Riemann’sche Hypothese (RH)**  
+→ Ziel: Alle Nullstellen der Riemannschen Zeta-Funktion liegen auf der kritischen Linie.
+
+**2. Zeta-Nullstellen**  
+→ Basis: Hochpräzise Odlyzko-Nullstellen-Daten.  
+→ Grundlage für spektrale Rekonstruktion.
+
+**3. Spektrale Struktur β(n)**  
+→ Strukturgesetz:  
+\[
+\beta(n) \approx A + \frac{a}{\log n} + b \cos(2\pi f n + \phi) + c n
+\]  
+→ Reproduzierbar aus FFT-Daten und Zeta-Spektrum.
+
+**4. Liouville-Rekonstruktion**  
+→ Verallgemeinerte ψ(x)-Funktion:  
+\[
+L(x) = \sum_k \beta_k \cdot \frac{x^{\rho_k} \zeta(2\rho_k)}{\rho_k \zeta'(\rho_k)}
+\]
+
+**5. Vergleich mit klassischer ψ(x)**  
+→ Übereinstimmung → RH numerisch und strukturell gesichert.
+
+---
+
+**6. Euler–Freese-Identität**  
+→ Form:  
+\[
+e^{i\pi\beta(n)} + 1 \to 0
+\]  
+→ Beschreibt spektrale Fixpunktkohärenz (z. B. auf dem Einheitskreis).
+
+**7. Freese-Fibonacci-Formel (zur Primzahldichte)**  
+→ Form:  
+\[
+P(n) \sim A \cdot n^\beta \cdot \left(1 + \gamma \cos(\omega \log n)\right)
+\]
+
+---
+
+**8. Fazit:**  
+→ RH folgt als notwendige Kohärenzbedingung eines harmonischen Spektralsystems.  
+→ Die β-Skala ist zentraler Träger dieser Struktur.
+
+---
+
+**Nächste Schritte**: Paper-Dokumentation, algorithmische Stabilisierung, axiomatische Einbettung.
 
 ## Kernformel (Beta-Ansatz)
 
