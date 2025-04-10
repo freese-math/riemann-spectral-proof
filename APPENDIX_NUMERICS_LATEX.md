@@ -60,6 +60,13 @@ plt.tight_layout()
 plt.show()
 ```
 
+## Spektrale Signatur der Beta-Skala
+
+Die folgende Abbildung zeigt die FFT-Analyse der rekonstruierten Beta-Skala mit einem klar hervorgehobenen Peak bei der analytisch hergeleiteten Modulationsfrequenz $f = 0{,}00015$:
+
+![Spektralanalyse der Beta-Skala – dominanter Frequenzpeak](https://github.com/freese-math/riemann-spectral-proof/blob/main/IMG_4526.png)
+
+> Die Spektralanalyse belegt eine eindeutig dominierende Modulationsfrequenz – exakt dort, wo der theoretische Cosinus-Term aus der Herleitung verankert ist. Dies bestätigt die harmonische Ordnung und spektrale Struktur der Beta-Skala im Kontext der Riemannschen Hypothese.
 ---
 
 ## 5. Fazit
