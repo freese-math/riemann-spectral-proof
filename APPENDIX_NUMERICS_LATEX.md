@@ -77,5 +77,10 @@ Die rekonstruktive Beta-Skala ist spektral harmonisch, funktional rekonstruierba
 
 ## 6. Direkt ausführbare Version des Jupyter Notebooks
 
-- **[Anzeigen in nbviewer](https://github.com/freese-math/riemann-spectral-proof/blob/678aea8d01c890965c4adf405f7fe998b7a622d4/fft_beta_demo_moduliert.ipynb)**  
+- **[Anzeigen in nbviewer]
+- ## Analyse: Spektrale Struktur der Beta-Skala
+
+Das folgende Jupyter Notebook enthält die vollständige FFT-Auswertung der rekonstruierten Beta-Skala inklusive Markierung der dominanten Modulationsfrequenz bei $f = 0.00015$.
+
+[**Öffnen in nbviewer**](https://nbviewer.org/github/freese-math/riemann-spectral-proof/blob/678aea8d01c890965c4adf405f7fe998b7a622d4/fft_beta_demo_moduliert.ipynb)
 
