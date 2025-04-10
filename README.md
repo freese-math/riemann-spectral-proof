@@ -12,7 +12,7 @@ Dieses Repository dokumentiert den modular aufgebauten Beweisrahmen für die RH,
 
 Starte das interaktive Notebook online:
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/freese-math/riemann-spectral-proof/main/fft_beta_demo_moduliert.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/freese-math/riemann-spectral-proof/HEAD?filepath=fft_beta_demo_moduliert.ipynb)
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/freese-math/riemann-spectral-proof/blob/main/fft_beta_demo_moduliert.ipynb)
 
 Zentrale Komponenten sind:
