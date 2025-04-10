@@ -167,6 +167,9 @@ Dieses Projekt untersucht die Riemannsche Hypothese aus spektraler Sicht – mit
 
 - [Kernstruktur & Theorie (index.ipynb)](https://nbviewer.org/github/freese-math/riemann-spectral-proof/blob/main/index.ipynb)
 
+- - [Notebook anzeigen (nbviewer)](https://nbviewer.org/github/freese-math/riemann-spectral-proof/blob/main/index.ipynb)
+- [Notebook ausführen (Google Colab)](https://colab.research.google.com/github/freese-math/riemann-spectral-proof/blob/main/index.ipynb)
+
 ## Inhalte
 
 - Harmonische Rekonstruktion der Beta-Funktion
