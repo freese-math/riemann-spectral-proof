@@ -70,12 +70,13 @@ $$
 
 ## Überblick: Freese-Ansatz zur Riemannschen Hypothese
 
-![Freese-Flowchart](https://github.com/freese-math/riemann-spectral-proof/raw/main/U%CC%88bersicht_Freese_Hypothese_Franework.png)
+<p align="center">
+  <img src="https://github.com/freese-math/riemann-spectral-proof/raw/main/U%CC%88bersicht_Freese_Hypothese_Franework.png" alt="Freese-Flowchart" width="600"/>
+</p>
 
-Dieses Diagramm zeigt die logische Struktur des Freese-Ansatzes von den Zeta-Nullstellen bis zur Kohärenzstruktur der RH.
----
+<p align="center"><em>Abbildung: Logische Struktur des Freese-Ansatzes – von den Zeta-Nullstellen bis zur spektralen Kohärenzstruktur der RH.</em></p>
 
-**Nächste Schritte**: Paper-Dokumentation, algorithmische Stabilisierung, axiomatische Einbettung.
+Nächste Schritte: Paper-Dokumentation, algorithmische Stabilisierung, axiomatische Einbettung.
 ---
 
 **Nächste Schritte:** Paper-Dokumentation, algorithmische Stabilisierung, axiomatische Einbettung.
