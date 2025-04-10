@@ -75,8 +75,8 @@ $$
 → RH folgt als notwendige Kohärenzbedingung eines harmonischen Spektralsystems.  
 → Die β-Skala ist zentraler Träger dieser Struktur.
 
-- [Notebook anzeigen (nbviewer)](https://nbviewer.org/github/freese-math/riemann-spectral-proof/blob/main/fft_beta_demo.ipynb)
-- [Notebook ausführen (Google Colab)](https://colab.research.google.com/github/freese-math/riemann-spectral-proof/blob/main/fft_beta_demo.ipynb)
+- [Notebook anzeigen (nbviewer)](https://nbviewer.org/github/freese-math/riemann-spectral-proof/blob/main/fft_beta_demo_moduliert.ipynb)
+- [Notebook ausführen (Google Colab)](https://colab.research.google.com/github/freese-math/riemann-spectral-proof/blob/main/fft_beta_demo_moduliert.ipynb)
 
 ## Überblick: Freese-Ansatz zur Riemannschen Hypothese
 
