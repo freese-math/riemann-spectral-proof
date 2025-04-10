@@ -150,7 +150,7 @@ Dies bestätigt die spektrale Ordnung und funktionale Determiniertheit der Beta-
 
 **[Appendix A – Numerische Validierung (Markdown mit Formeln)](APPENDIX_NUMERICS_LATEX.md)**
 
-![FFT der Beta-Skala](beta_fft_spektrum_markiert.png)
+![FFT der Beta-Skala](./beta_fft_spektrum_markiert.png)
 
 ## Riemann Spectral Proof
 
