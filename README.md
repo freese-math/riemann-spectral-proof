@@ -27,9 +27,9 @@ Zentrale Komponenten sind:
 
 **3. Spektrale Struktur β(n)**  
 → Strukturgesetz:  
-\[
+\$$
 \beta(n) \approx A + \frac{a}{\log n} + b \cos(2\pi f n + \phi) + c n
-\]  
+\$$ 
 → Reproduzierbar aus FFT-Daten und Zeta-Spektrum.
 
 **4. Liouville-Rekonstruktion**  
