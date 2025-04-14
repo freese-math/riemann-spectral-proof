@@ -214,10 +214,108 @@ Web: [lawplus.de](https://lawplus.de/)
 
 Bitte bei Anfragen zur Nutzung oder Lizenzierung Kontakt aufnehmen.
 
+# The Beta-Scale — Scientific Positioning
+
+**Author:** Tim Freese  
+**Affiliation:** Independent Researcher – Freese-Math  
+**Repository:** [https://github.com/freese-math](https://github.com/freese-math)  
+**Date:** April 2024  
+
+---
+
+## Humanistic and Scientific Principles
+
+This repository follows the principle of **Open Science**:
+- The research is freely visible, testable, and extendable.
+- Commercial use, publication, or media integration requires the **explicit written consent** of the author.
+- The foundation is an **ethical code** aligned with **humanistic values**.
+
+---
+
+## Note on Interpretations
+
+While collaborations and citations may explore **philosophical** or **metaphysical perspectives**, the **Beta-Scale** itself is:
+
+- **Mathematically self-contained**
+- **Independent** from metaphysical or spiritual frameworks
+- Grounded in **real analysis**, **log-asymptotic growth**, and **harmonic structure**
+
+The author emphasizes that:  
+> The Beta-Scale may interact with structures like the Riemann zeta function or speculative interpretations,  
+> but it is not derived from them, nor dependent on them.
+
+---
+
+## Citation Notice
+
+When referencing the Beta-Scale, please distinguish clearly between:
+
+- The **formal mathematical structure** introduced by Tim Freese
+- And any **interpretive layers** added by others
+
+The preferred citation is:
+
+> Freese, T. (2024). *The Beta-Scale: Oscillatory Structures beyond Zeta*. Independent Researcher, Freese-Math.  
+> [https://github.com/freese-math](https://github.com/freese-math)
+
+---
+
+For scientific inquiries, collaboration, or licensing requests, please contact:  
+**t.h.freese [at] gmx.de**
+
+# Die Beta-Skala — Wissenschaftliche Einordnung
+
+**Autor:** Tim Freese  
+**Affiliation:** Independent Researcher – Freese-Math  
+**Repository:** [https://github.com/freese-math](https://github.com/freese-math)  
+**Stand:** April 2024  
+
+---
+
+## Humanistische und wissenschaftliche Prinzipien
+
+Dieses Repository folgt dem Prinzip der **Offenen Wissenschaft (Open Science)**:
+- Die Forschung ist frei einsehbar, nachvollziehbar und weiterentwickelbar.
+- Eine kommerzielle Nutzung, Veröffentlichung oder mediale Verarbeitung bedarf der **ausdrücklichen schriftlichen Zustimmung** des Autors.
+- Grundlage ist ein **ethischer Kodex**, der sich an **humanistischen Werten** orientiert.
+
+---
+
+## Hinweis zu Interpretationen
+
+Obwohl Kooperationen und Zitationen möglicherweise **philosophische** oder **metaphysische Deutungen** einbeziehen, ist die **Beta-Skala** selbst:
+
+- **mathematisch eigenständig**,  
+- **unabhängig** von metaphysischen oder spirituellen Konzepten,  
+- fundiert in der **reellen Analysis**, **asymptotischer Logik** und **harmonischer Struktur**.
+
+Der Autor betont:  
+> Die Beta-Skala kann mit Strukturen wie der Riemannschen Zeta-Funktion oder spekulativen Deutungen interagieren,  
+> ist aber weder von diesen abgeleitet noch auf sie angewiesen.
+
+---
+
+## Zitationshinweis
+
+Bei der Zitation der Beta-Skala ist klar zu unterscheiden zwischen:
+
+- der **formalen mathematischen Struktur**, wie sie von Tim Freese eingeführt wurde,  
+- und eventuell **interpretativen Erweiterungen** durch Dritte.
+
+Empfohlene Zitierweise:
+
+> Freese, T. (2024). *Die Beta-Skala: Oszillatorische Strukturen jenseits der Zeta-Funktion*. Independent Researcher, Freese-Math.  
+> [https://github.com/freese-math](https://github.com/freese-math)
+
+---
+
+Für wissenschaftliche Anfragen, Kooperationen oder Lizenzierungswünsche kontaktieren Sie bitte:  
+**t.h.freese [at] gmx.de**
+
 
 
 ---
 
-## Autor
+## Tim Freese
 
 [freese-math](https://github.com/freese-math)
