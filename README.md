@@ -81,7 +81,7 @@ $$
 ## Überblick: Freese-Ansatz zur Riemannschen Hypothese
 
 <p align="center">
-  <img src="https://github.com/freese-math/riemann-spectral-proof/blob/b472a0c9bff87802c7b334ea517da6039db602f4/Freese_RH_Structure_Diagram.pdf alt="Freese-Flowchart" width="600"/>
+  <img src="https://github.com/freese-math/riemann-spectral-proof/blob/main/beta-scale/Freese_RH_Structure_Diagram.png?raw=true" width="600"/>
 </p>
 
 <p align="center"><em>Abbildung: Logische Struktur des Freese-Ansatzes – von den Zeta-Nullstellen bis zur spektralen Kohärenzstruktur der RH.</em></p>
